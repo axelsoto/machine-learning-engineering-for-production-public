@@ -77,6 +77,10 @@ pip install -r requirements.txt
 ```
  
 This command can take a while to run depending on the speed of your internet connection. Once this step completes you should be ready to spin up jupyter lab and begin working on the ungraded lab.
+
+```bash
+pip install 'protobuf<=3.20.1' --force-reinstall
+```
  
 ### 3. Launching Jupyter Lab
  
